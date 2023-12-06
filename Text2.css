@@ -1,0 +1,20 @@
+@charset "UTF-8";
+.text_rules {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    text-align: left;
+    white-space: normal;
+    text-transform: none;
+    text-shadow: 0px 0px #000000;
+    word-spacing: normal;
+}
+
+.Text_rules2 {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    vertical-align: 0px;
+}
+.image_rulez {
+    padding-right: 20px;
+    padding-top: 0px;
+}
